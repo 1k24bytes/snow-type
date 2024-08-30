@@ -23,7 +23,7 @@ This is a lightweight typing test tool built using JavaScript to help users meas
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/typing-test-tool.git
+   https://github.com/1k24bytes/snow-type.git
    ```
 
 2. Open the `index.html` file in your browser to start using the tool.
